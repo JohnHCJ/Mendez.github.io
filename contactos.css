@@ -1,0 +1,85 @@
+body{
+    background: rgb(216, 174, 255);
+}
+
+.Uriguen{
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px 50px;
+    box-shadow: 6px 5px 20px greenyellow;
+}
+
+.Uriguen h1{
+    font-family: Cooper Black;
+    padding: 20px;
+    color: blueviolet;
+    text-shadow: 2px 2px 0px greenyellow;
+    font-size: 40px;
+}
+
+.Uriguen h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.Uriguen i{
+    color: blueviolet;
+    text-shadow: -2px 2px 0px greenyellow;
+}
+
+.Uriguen button{
+    padding: 3px 50px;
+    background: #252525;
+    border: none;
+    border-radius: 20px;
+}
+
+.Uriguen a{
+    padding: 3px 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.Jaramillo{
+    background-color: #fff;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px 40px;
+    box-shadow: 6px 5px 20px blueviolet;
+}
+
+.Jaramillo h1{
+    font-family: Cooper Black;
+    padding: 20px;
+    color: blueviolet;
+    text-shadow: 2px 2px 0px greenyellow;
+    font-size: 40px;
+}
+
+.Jaramillo h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.Jaramillo i{
+    color: blueviolet;
+    text-shadow: -2px 2px 0px greenyellow;
+}
+
+.Jaramillo button{
+    padding: 3px 50px;
+    background: #252525;
+    border: none;
+    border-radius: 20px;
+}
+
+.Jaramillo a{
+    padding: 3px 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
